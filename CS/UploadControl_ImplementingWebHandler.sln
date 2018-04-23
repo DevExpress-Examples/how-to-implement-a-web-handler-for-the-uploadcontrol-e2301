@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadControl_ImplementingWebHandler", "UploadControl_ImplementingWebHandler\UploadControl_ImplementingWebHandler.csproj", "{55AD5B97-0797-4570-9CD4-F4153262C804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadServer.Web", "UploadServer.Web\UploadServer.Web.csproj", "{EBAE0A21-6382-4792-83D3-3395C1971191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AD5B97-0797-4570-9CD4-F4153262C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AD5B97-0797-4570-9CD4-F4153262C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AD5B97-0797-4570-9CD4-F4153262C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AD5B97-0797-4570-9CD4-F4153262C804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAE0A21-6382-4792-83D3-3395C1971191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAE0A21-6382-4792-83D3-3395C1971191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAE0A21-6382-4792-83D3-3395C1971191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAE0A21-6382-4792-83D3-3395C1971191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
