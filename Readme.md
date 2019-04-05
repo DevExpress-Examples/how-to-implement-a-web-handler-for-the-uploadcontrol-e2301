@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/UploadControl_ImplementingWebHandler/MainPage.xaml) (VB: [MainPage.xaml](./VB/UploadControl_ImplementingWebHandler/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/UploadControl_ImplementingWebHandler/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/UploadControl_ImplementingWebHandler/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/UploadControl_ImplementingWebHandler/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/UploadControl_ImplementingWebHandler/MainPage.xaml.vb))
 * [UploadHandler.ashx.cs](./CS/UploadServer.Web/UploadHandler.ashx.cs) (VB: [UploadHandler.ashx.vb](./VB/UploadServer.Web/UploadHandler.ashx.vb))
 <!-- default file list end -->
 # How to implement a web handler for the UploadControl
